@@ -28,10 +28,22 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Tech Lead / Developers:
+  - QA Engineer:
+  - UX/UI Designer (if applicable):
+  - Security Lead (if applicable):
+  - Customer Support Liaison (if applicable):
+  - Other roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] All required roles identified and assigned (PM, PdM, Tech Lead, QA)
+- [ ] Security requirements identified (engage Security Lead if needed)
+- [ ] UX/design needs assessed (engage UX/UI Designer if needed)
+- [ ] Support impact evaluated (engage Customer Support Liaison if needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

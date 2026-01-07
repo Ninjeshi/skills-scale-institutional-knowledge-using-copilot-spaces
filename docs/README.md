@@ -26,10 +26,13 @@ These docs help teams deliver customer value through clear ownership, iterative 
 - **Project Manager (PM)**: coordinates delivery, schedules, risks, and communications
 - **Product Manager (PdM)**: defines outcomes, prioritizes backlog, measures success
 - **Developers**: implement features and collaborate on design and testability
-- **QA/Testing**: validate quality and acceptance criteria
-- **Stakeholders**: provide inputs and approvals
+- **QA/Testing Engineer**: validates quality and acceptance criteria, ensures release readiness
+- **UX/UI Designer**: creates user experiences, conducts research, ensures accessibility
+- **Security Lead**: ensures security requirements, conducts reviews, manages vulnerabilities
+- **Customer Support Liaison**: bridges customer feedback to product team, ensures support readiness
+- **Stakeholders**: provide inputs, approvals, and strategic direction
 
-Learn more about [roles and responsibilities](octoacme-roles-and-personas.md).
+Learn more about [roles and responsibilities](octoacme-roles-and-personas.md) and [cross-role collaboration best practices](octoacme-collaboration-and-onboarding.md).
 
 ## Key Artifacts
 
@@ -47,6 +50,7 @@ We proactively identify and manage risks using a Risk Register, and we communica
 ## Additional Resources
 
 - [Project Management Overview](octoacme-project-management-overview.md) — principles, scope, and communication cadence
+- [Cross-Role Collaboration & Onboarding Guide](octoacme-collaboration-and-onboarding.md) — best practices for team collaboration and onboarding
 
 ## How to Use These Docs
 
