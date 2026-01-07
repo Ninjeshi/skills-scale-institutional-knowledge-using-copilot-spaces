@@ -314,7 +314,9 @@ Stakeholders are individuals or groups with a vested interest in the project's o
 
 ## Cross-Functional Collaboration Best Practices
 
-Effective collaboration across these personas is essential for project success. Key principles include:
+Effective collaboration across these personas is essential for project success. For detailed checklists, onboarding guidance, and communication best practices, see the [Cross-Role Collaboration & Onboarding Guide](octoacme-collaboration-and-onboarding.md).
+
+Key principles include:
 
 - **Clear accountability**: Each role has distinct responsibilities, reducing overlap and confusion
 - **Regular communication**: Established cadences (daily standups, weekly syncs, monthly reviews) ensure alignment

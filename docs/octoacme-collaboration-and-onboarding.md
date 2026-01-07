@@ -18,10 +18,18 @@ Use this checklist at project kickoff to ensure all necessary roles are engaged 
 ### Early Cross-Role Engagement
 
 #### Security Involvement
-- [ ] Security Lead engaged during project initiation for high-risk or compliance-sensitive projects
+- [ ] Security Lead engaged during project initiation for high-risk or compliance-sensitive projects (see criteria below)
 - [ ] Security requirements documented in acceptance criteria
 - [ ] Security review checkpoints scheduled in project timeline
 - [ ] Threat modeling session scheduled (if applicable)
+
+**When to engage Security Lead:**
+- Projects handling sensitive customer data (PII, payment information, credentials)
+- Authentication or authorization changes
+- External integrations or API exposures
+- Compliance requirements (SOC 2, GDPR, HIPAA, etc.)
+- Infrastructure or deployment changes affecting security posture
+- Any project identified as high-risk in the risk register
 
 #### UX/Design Involvement
 - [ ] UX/UI Designer engaged before detailed implementation planning
@@ -38,11 +46,20 @@ Use this checklist at project kickoff to ensure all necessary roles are engaged 
 - [ ] Release testing timeline allocated in project plan
 
 #### Customer Support Involvement
-- [ ] Customer Support Liaison engaged for customer-facing changes
+- [ ] Customer Support Liaison engaged for customer-facing changes (see criteria below)
 - [ ] Customer impact assessment completed
 - [ ] Support documentation needs identified
 - [ ] Release communication plan established
 - [ ] Support team training scheduled (if needed)
+
+**When to engage Customer Support Liaison:**
+- UI/UX changes that affect customer workflows
+- New features or functionality requiring customer education
+- Changes to existing behavior that may generate support inquiries
+- Pricing, billing, or subscription changes
+- Deprecation or removal of features
+- Changes affecting API clients or integrations
+- Any change expected to impact customer satisfaction metrics
 
 ## New Team Member Onboarding Checklist
 
